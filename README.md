@@ -1,7 +1,7 @@
 ## Hello, this is Liang Jing(荆亮) 👋
 
 - Currently, I'm a PhD candidate at the Department of Astronomy of Beijing Normal University([北京师范大学天文系](https://astro.bnu.edu.cn/zw/index.html)).
-- 🔭 I'm studying _Active Galactic Nuclei_ through observations. In particular, I am now focusing on the searching of lensed quasars in the Universe. And I've also done some research on _Fast Radio Bursts_
+- 🔭 I'm studying _Active Galactic Nuclei_ through observations. In particular, I am now focusing on the searching of lensed quasars in the Universe. And I've also done some research on _Fast Radio Bursts_.
 - 🌱 I'm interested in computer hardware and software, I like to study Linux, Windows, Mac, and happy to share.
 - 👯 I'm good at table tennis.
 
