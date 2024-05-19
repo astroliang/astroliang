@@ -6,7 +6,7 @@
 - 🏓 I'm good at table tennis.
 
 - 🏅 Awards:
-  * **Certificate of Excellent Oral Presentation** in the 26th Chinese Astronomical Society Guoshoujing Symposiumon on Galaxies and Cosmology (第26届郭守敬学术研讨会暨2024年星系宇宙学前沿研讨会**优秀口头报告奖**) 
+  * **Certificate of Excellent Oral Presentation** in the 26th Chinese Astronomical Society Guoshoujing Symposiumon on Galaxies and Cosmology (第26届郭守敬学术研讨会暨2024年星系宇宙学前沿研讨会**优秀口头报告奖**)
 
 - 📫 Contact:
   * Email: astroliangjing@outlook.com
